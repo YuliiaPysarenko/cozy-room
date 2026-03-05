@@ -1,4 +1,4 @@
-# 🏠 Cozy Room — Three.js Journey Exercise
+# 🏠 Cozy Room
 
 An interactive 3D scene "Cozy Room". This project demonstrates 3D modeling integration, custom lighting, and interactive elements using the **React Three Fiber** ecosystem.
 
